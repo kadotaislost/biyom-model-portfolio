@@ -18,7 +18,7 @@ const brands = [
   { name: "Vanity", logo: "/photos/vanity.jpg" },
   { name: "White Feather", logo: "/photos/whitefeather.png" },
   { name: "Mheecha", logo: "/photos/mheecha.png" },
-  { name: "Bluaway", logo: "/photos/Bluaway.jpg" },
+  { name: "Bluaway", logo: "/photos/bluaway.jpg" },
 ];
 
 export default function BrandsSection() {
